@@ -1,0 +1,210 @@
+.dautrang{
+    width: 100%;
+    height: 250px;
+    background-color: aqua;
+}
+.dautrang img{
+    width: 100%;
+    height: 250px;
+}
+.menu{
+    width: 100%;
+    height: 60px;
+    background-color:aquamarine;
+}
+.menu ul li{
+    float: left;
+    list-style: none;
+    margin-right: 10%;
+    margin-top: 2%;
+}
+.menu ul li:hover {
+    background-color: chartreuse;
+    
+}
+.menu ul li:hover a {
+    color: aliceblue;
+}
+.menu ul li a{
+    text-decoration: none;
+    color: black;
+}
+.noidung{
+    width: 100%;
+    height: 650px;
+    margin-right: 2%;
+    background-color: rgb(253, 252, 250);
+}
+.hang1{
+    width: 22%;
+    height: 650px;
+    background-color: chartreuse;
+    float: left;
+    margin-right: 3%;
+}
+.hang11{
+    width: 100%;
+    height: 200px;
+    background-color: rgb(243, 87, 52);
+    float: left;
+    margin-top: 5%;
+}
+.hang11 img{
+    width: 100%;
+    height: 200px;
+    transition: 2s;
+}
+.hang11 img:hover {
+    transform: scale(2);
+}
+.hang12{
+    width: 100%;
+    height: 200px;
+    background-color: rgb(211, 20, 148);
+    float: left;
+    margin-top: 5%;
+        border-radius: 15%;
+}
+.hang13{
+    width: 100%;
+    height: 200px;
+    background-color: rgb(58, 17, 241);
+    float: left;
+    margin-top: 5%;
+    background-image: linear-gradient(to right, red,orange,yellow,green,blue,indigo,violet);
+}
+.hang21{
+    width: 100%;
+    height: 200px;
+    background-color: rgb(128, 231, 9);
+    float: left;
+    margin-top: 5%;
+    border-radius: 20%;
+}
+.hang22{
+    width: 100%;
+    height: 200px;
+    background-color: rgb(248, 102, 4);
+    float: left;
+    margin-top: 5%;
+    overflow: hidden;
+
+}
+.hang23{
+    width: 100%;
+    height: 200px;
+    background-color: rgb(219, 241, 17);
+    float: left;
+    margin-top: 5%;
+    background-image: radial-gradient(circle, red, yellow, green);
+}
+
+.hang31{
+    width: 100%;
+    height: 200px;
+    background-color: rgb(231, 9, 46);
+    float: left;
+    margin-top: 5%;
+}
+.hang32{
+    width: 100%;
+    height: 200px;
+    background-color: rgb(64, 242, 14);
+    float: left;
+    margin-top: 5%;
+    border-radius: 50%;
+}
+.hang33{
+    width: 100%;
+    height: 200px;
+     background-image: linear-gradient(red, yellow, green);
+    float: left;
+    margin-top: 5%;
+    border-radius: 50%;
+}
+.hang41{
+    width: 100%;
+    height: 200px;
+    background-color: rgb(128, 231, 9);
+    float: left;
+    margin-top: 5%;
+}
+.hang42{
+    width: 100%;
+    height: 200px;
+    background-color: rgb(248, 102, 4);
+    float: left;
+    margin-top: 5%;
+    box-shadow: 30px 30px 15px rgb(231, 251, 1);
+}
+.hang43{
+    width: 100%;
+    height: 200px;
+    background-color: rgb(219, 241, 17);
+    float: left;
+    margin-top: 5%;
+    text-shadow: 3px 2px white;
+    font-size: 30px;
+}
+
+.hang2{
+    width: 22%;
+    height: 650px;
+    background-color: rgb(245, 248, 48);
+    float: left;
+    margin-right: 3%;
+}
+.hang3{
+    width: 22%;
+    height: 650px;
+    background-color: rgb(185, 225, 244);
+    float: left;
+    margin-right: 3%;
+}
+.hang3{
+    width: 22%;
+    height: 650px;
+    background-color: rgb(185, 225, 244);
+    float: left;
+    margin-right: 3%;
+}
+.hang4{
+    width: 22%;
+    height: 650px;
+    background-color: rgb(71, 248, 80);
+    float: right;
+    margin-right: 3%;
+}
+.hang21 img{
+    width: 100%;
+    height: 200px;
+    transition-duration: 1s;
+}
+.hang21 img:hover {
+    transform: rotate(360deg);
+}
+.hang31 img{
+    width: 100%;
+    height: 200px;
+    transition-duration: 2s;
+}
+.hang31 img:hover {
+    transform: translate(250px);;
+}
+.hang41 img{
+    width: 100%;
+    height: 200px;
+    transition-duration: 2s;
+}
+.hang41 img:hover {
+    transform: skewX(50deg)
+}
+.hang22 img{
+    width: 100%;
+    height: 200px;
+    transition-duration: 2s;
+    border-radius: 40%;
+}
+.hang22 img:hover {
+    transform: scale(2);
+}
